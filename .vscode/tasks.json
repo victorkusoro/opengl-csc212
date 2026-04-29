@@ -20,7 +20,7 @@
         "output.exe"
       ],
       "options": {
-        "cwd": "${workspaceFolder}"
+        "cwd": "${fileDirname}"
       },
       "group": {
         "kind": "build",
